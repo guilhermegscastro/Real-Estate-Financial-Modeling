@@ -18,7 +18,7 @@ The study demonstrates my ability to build **dynamic Excel financial model** for
 
 ---
 
-
+![Real Estate Financial Modeling](image/first.png "Real Estate Financial Modeling")
 
 ---
 
@@ -45,7 +45,7 @@ The study demonstrates my ability to build **dynamic Excel financial model** for
 
 ## 🛠️ Tools & Methods
 
-* **Excel for financial modeling
+* **Excel for financial modeling**
 * **DCF (Discounted Cash Flow) modeling** for IRR and NPV calculations
 * **Waterfall structures** for LP/GP IRR analysis
 
