@@ -25,7 +25,7 @@ The study demonstrates my ability to build **dynamic Excel financial model** for
 
 # The Cash Flow Tab
 
-The Cash Flow Tab is the engine of your model — it consolidates assumptions (schedule, sales, costs, financing) into monthly or quarterly cash flows and calculates key metrics like IRR, NPV, Equity Multiple, etc.
+The Cash Flow Tab is the engine of your model — it consolidates assumptions (schedule, sales, costs, financing) into monthly or quarterly cash flows and calculates key metrics like IRR, NPV, Cash Flow Waterfall, etc.
 
 ### Timeline of the Project
 
@@ -54,8 +54,24 @@ The Cash Flow Tab is the engine of your model — it consolidates assumptions (s
 
 ---
 
-### General Partner / Limited Partner Structure
+## General Partner / Limited Partner Structure
+
+### Who Are the Players?
+
+* General Partner (GP) → The sponsor or developer. They find the deal, manage the project, take on risk, and oversee construction/sales. Usually they put in less money but get rewarded with a bigger upside if the project performs well.
+* Limited Partners (LPs) → The investors. They contribute the majority of the equity (the big checks). They take less risk and expect steady, preferred returns.
+
+### What is a Cash Flow Waterfall?
+
+* Think of it like a step-by-step distribution system for project cash flows (profits). Money “flows down” through different tiers (the waterfall). Each tier must be satisfied before the next one gets paid.
+
 ![Real Estate Financial Modeling](image/second.png "Real Estate Financial Modeling")
+
+### Why It Matters
+
+* LPs like this because they get protection on the downside (capital + pref return first).
+* GP likes this because if they perform well, they get outsized upside (carried interest).
+* This aligns interests: GP only gets rich if LPs also make money.
 
 ---
 
@@ -88,6 +104,8 @@ The Cash Flow Tab is the engine of your model — it consolidates assumptions (s
 
 ## 📎 References
 
+* Confessions of a Real Estate Entrepreneur - Book by James A. Randel
+* Commercial Real Estate Finance Specialist Course | CFI
 * Recent Orlando apartment complex (Downtown, Lake Nona, Winter Park)
 
 ---
