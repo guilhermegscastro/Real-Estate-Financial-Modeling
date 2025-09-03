@@ -20,6 +20,9 @@ The study demonstrates my ability to build **dynamic Excel financial model** for
 
 ![Real Estate Financial Modeling](image/first.png "Real Estate Financial Modeling")
 
+
+![Real Estate Financial Modeling](image/second.png "Real Estate Financial Modeling")
+
 ---
 
 ## 📈 Profitability Outputs
