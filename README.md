@@ -42,7 +42,7 @@ The Cash Flow Tab is the engine of your model — it consolidates assumptions (s
 
 ### How the Project is Funded (Sources)
 
-* **Equity contributions** from investors cover early costs like land and pre-development.
+* **Equity contributions** from investors (GP + LP) cover early costs like land and pre-development.
 * **Construction loan** kicks in to fund monthly draws once equity is used.
 * Interest on the loan is capitalized (added to the balance) until sales start repaying it.
 
@@ -50,7 +50,7 @@ The Cash Flow Tab is the engine of your model — it consolidates assumptions (s
 
 * **Condo sales** generate revenue when units are closed (not just when pre-sold).
 * Closings start at construction completion and continue monthly until all units are sold.
-* From these inflows, the loan is paid down first, then remaining funds flow back to investors.
+* From these inflows, the loan is paid down first, then remaining funds flow back to investors (GP + LP).
 
 ---
 
