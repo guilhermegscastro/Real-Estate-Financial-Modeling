@@ -25,7 +25,7 @@ The study demonstrates my ability to build **dynamic Excel financial model** for
 
 # The Cash Flow Tab
 
-The Cash Flow Tab is the engine of your model — it consolidates assumptions (schedule, sales, costs, financing) into monthly or quarterly cash flows and calculates key metrics like IRR, NPV, Cash Flow Waterfall, etc.
+The Cash Flow Tab is the engine of the model — it consolidates assumptions (schedule, sales, costs, financing) into monthly cash flows and calculates key metrics like IRR, NPV, Cash Flow Waterfall, etc.
 
 ### Timeline of the Project
 
@@ -101,6 +101,14 @@ The Cash Flow Tab is the engine of your model — it consolidates assumptions (s
 * **Excel for financial modeling**
 * **DCF (Discounted Cash Flow) modeling** for IRR and NPV calculations
 * **Waterfall structures** for LP/GP IRR analysis
+
+## File Structure
+
+Real Estate Financial Modeling (High-Rise Orlando Apartment Complex).xlsx → Final Excel model with all calculations.
+
+- Deal Summary – Project Dashboard.
+
+- Cash Flows - Monthly – Consolidates assumptions into monthly cash flows.
 
 ## 📎 References
 
