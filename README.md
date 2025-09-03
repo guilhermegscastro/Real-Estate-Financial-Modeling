@@ -18,9 +18,10 @@ The study demonstrates my ability to build **dynamic Excel financial model** for
 
 ---
 
+## Deal Summary
 ![Real Estate Financial Modeling](image/first.png "Real Estate Financial Modeling")
 
-
+## General Partner / Limited Partner Structure
 ![Real Estate Financial Modeling](image/second.png "Real Estate Financial Modeling")
 
 ---
