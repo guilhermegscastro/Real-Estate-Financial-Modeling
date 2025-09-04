@@ -117,7 +117,7 @@ Real Estate Financial Modeling (Mid-Rise Orlando Apartment Complex).xlsx → Fin
 * https://breakintocre.com/what-a-good-irr-looks-like-in-real-estate-investing
 * https://estimatorflorida.com/luxury-condo-construction-in-orlando
 * https://www.multifamily.loans/apartment-finance-blog/multifamily-construction-costs-an-investor-guide
-* * Zillow - Orlando apartment complex (Lake Nona, Winter Park, or Baldwin Park)
+* Zillow - Orlando apartment complex (Lake Nona, Winter Park, or Baldwin Park)
 
 ---
 
