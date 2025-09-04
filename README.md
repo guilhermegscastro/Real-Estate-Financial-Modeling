@@ -54,7 +54,7 @@ The Cash Flow Tab is the engine of the model — it consolidates assumptions (sc
 
 ---
 
-## General Partner / Limited Partner Structure
+## 📊 General Partner / Limited Partner Structure
 
 ### Who Are the Players?
 
