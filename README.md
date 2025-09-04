@@ -13,7 +13,7 @@ The study demonstrates my ability to build **dynamic Excel financial model** for
 * **Asset Type:** For-sale condominium development
 * **Location:** Orlando Metro Area (submarkets: Downtown, Lake Nona, Winter Park)
 * **Site Size:** \~4 acres (180,000 sq ft gross site area)
-* **Product Type:** High-rise condo complex
+* **Product Type:** Mid-Rise Luxury condo complex (~5–7 floors) per Building
 * **Target Buyers:** Upper mid-market / family-oriented condo buyers
 
 ---
@@ -92,7 +92,7 @@ The Cash Flow Tab is the engine of the model — it consolidates assumptions (sc
 
 * **Feasibility:** With a 20% IRR and 46% ROE, this project is financially attractive, assuming strong absorption and sales pricing.
 * **Risk Factors:** Construction cost volatility, sales absorption pace, and pricing sensitivity (a 5–10% shift can significantly impact IRR).
-* **Market Alignment:** Benchmarked against real Orlando condo comps in Downtown, Lake Nona, and Winter Park.
+* **Market Alignment:** Benchmarked against real Orlando condo comps in Lake Nona, Winter Park, or Baldwin Park.
 
 ---
 
@@ -104,7 +104,7 @@ The Cash Flow Tab is the engine of the model — it consolidates assumptions (sc
 
 ## 🛠️ File Structure
 
-Real Estate Financial Modeling (High-Rise Orlando Apartment Complex).xlsx → Final Excel model with all calculations.
+Real Estate Financial Modeling (Mid-Rise Orlando Apartment Complex).xlsx → Final Excel model with all calculations.
 
 - Deal Summary – Project Dashboard.
 
@@ -114,8 +114,10 @@ Real Estate Financial Modeling (High-Rise Orlando Apartment Complex).xlsx → Fi
 
 * Confessions of a Real Estate Entrepreneur - Book by James A. Randel
 * Commercial Real Estate Finance Specialist Course | CFI
-* Recent Orlando apartment complex (Downtown, Lake Nona, Winter Park)
 * https://breakintocre.com/what-a-good-irr-looks-like-in-real-estate-investing
+* https://estimatorflorida.com/luxury-condo-construction-in-orlando
+* https://www.multifamily.loans/apartment-finance-blog/multifamily-construction-costs-an-investor-guide
+* * Zillow - Orlando apartment complex (Lake Nona, Winter Park, or Baldwin Park)
 
 ---
 
