@@ -115,6 +115,7 @@ Real Estate Financial Modeling (High-Rise Orlando Apartment Complex).xlsx → Fi
 * Confessions of a Real Estate Entrepreneur - Book by James A. Randel
 * Commercial Real Estate Finance Specialist Course | CFI
 * Recent Orlando apartment complex (Downtown, Lake Nona, Winter Park)
+* https://breakintocre.com/what-a-good-irr-looks-like-in-real-estate-investing
 
 ---
 
